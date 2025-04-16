@@ -95,12 +95,6 @@ Code is inside the `code/` folder:
 
 ---
 
-## 📈 Demo (Optional)
-
-Embed video or gif of working model here.
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License.  
