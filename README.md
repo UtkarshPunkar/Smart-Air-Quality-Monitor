@@ -49,7 +49,7 @@ A DIY IoT project that monitors temperature, humidity, and air quality using ESP
 
 ---
 
-## 🖥️ Software & Libraries
+## 🖥️ Software & Libraries:
 
 - **Arduino IDE**
 - **Libraries Needed**:
@@ -60,7 +60,7 @@ A DIY IoT project that monitors temperature, humidity, and air quality using ESP
 
 ---
 
-## 📶 ThingSpeak Setup
+## 📶 ThingSpeak Setup:
 
 1. Sign up at [ThingSpeak](https://thingspeak.com)
 2. Create a new channel with 3 fields:
@@ -74,7 +74,7 @@ For detailed steps, see [docs/ThingSpeak_setup.md](docs/ThingSpeak_setup.md)
 
 ---
 
-## 🧠 Code Overview
+## 🧠 Code Overview:
 
 Code is inside the `code/` folder:
 
@@ -85,7 +85,7 @@ Code is inside the `code/` folder:
 
 ---
 
-## 🛠️ How to Upload Code
+## 🛠️ How to Upload Code:
 
 1. Open `.ino` file in Arduino IDE
 2. Select the board: **NodeMCU 1.0 (ESP8266)**
@@ -95,14 +95,14 @@ Code is inside the `code/` folder:
 
 ---
 
-## 📄 License
+## 📄 License:
 
 This project is licensed under the MIT License.  
 Feel free to use, modify, and share!
 
 ---
 
-## ✨ Author
+## ✨ Author:
 
 Utkarsh Punkar  
 
