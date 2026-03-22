@@ -4,7 +4,7 @@ A DIY IoT project that monitors temperature, humidity, and air quality using ESP
 
 ---
 
-## 📦 Features
+## 📦 Features:
 
 - 🌡️ Real-time Temperature & Humidity
 - 🌬️ Air Quality Monitoring (via MQ135/MQ2)
@@ -14,7 +14,7 @@ A DIY IoT project that monitors temperature, humidity, and air quality using ESP
 
 ---
 
-## 🔩 Hardware Components
+## 🔩 Hardware Components:
 
 | Component         | Description                  |
 |------------------|------------------------------|
@@ -27,7 +27,7 @@ A DIY IoT project that monitors temperature, humidity, and air quality using ESP
 
 ---
 
-### 📌 Pin Connections
+### 📌 Pin Connections:
 
 | Component   | ESP8266 Pin  |
 |-------------|--------------|
@@ -40,7 +40,7 @@ A DIY IoT project that monitors temperature, humidity, and air quality using ESP
 
 ---
 
-## ⚙️ How It Works
+## ⚙️ How It Works:
 
 1. ESP8266 reads data from DHT11 and MQ135 sensors
 2. Displays the live values on OLED
