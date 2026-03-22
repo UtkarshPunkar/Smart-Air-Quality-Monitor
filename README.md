@@ -102,7 +102,7 @@ Feel free to use, modify, and share!
 
 ---
 
-## ✨ Author
+## 🙎‍♂️ Author
 
 Utkarsh Punkar  
 
