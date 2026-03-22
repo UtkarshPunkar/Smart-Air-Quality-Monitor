@@ -1,4 +1,4 @@
-# 🌫️ Smart Air Quality Monitor using ESP8266, DHT11, MQ135, and OLED
+# 🌫️ Smart Air Quality Monitor using ESP8266, DHT11, MQ135, and OLED.
 
 A DIY IoT project that monitors temperature, humidity, and air quality using ESP8266 and displays the data on an OLED screen. It also sends live data to [ThingSpeak](https://thingspeak.com) for remote tracking and visualization.
 
