@@ -104,7 +104,7 @@ Feel free to use, modify, and share!
 
 ## 🙎‍♂️ Author
 
-Utkarsh Punkar  
+Utkarsh Punkar.
 
 ---
 
