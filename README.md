@@ -62,7 +62,7 @@ A DIY IoT project that monitors temperature, humidity, and air quality using ESP
 
 ## 📶 ThingSpeak Setup:
 
-1. Sign up at [ThingSpeak](https://thingspeak.com)
+1. Sign up at [ThingSpeak](https://thingspeak.com).
 2. Create a new channel with 3 fields:
    - Field1: Temperature
    - Field2: Humidity
