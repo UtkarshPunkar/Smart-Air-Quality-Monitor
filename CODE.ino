@@ -4,7 +4,7 @@
 #include <Adafruit_GFX.h>
 #include <DHT.h>
 
-#define DHTPIN 2      // D4 (GPIO2)
+#define DHTPIN 2     
 #define DHTTYPE DHT11
 #define MQ_PIN A0     
 
