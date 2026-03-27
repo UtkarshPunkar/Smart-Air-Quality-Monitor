@@ -6,7 +6,7 @@
 
 #define DHTPIN 2      // D4 (GPIO2)
 #define DHTTYPE DHT11
-#define MQ_PIN A0     // Analog pin for MQ sensor
+#define MQ_PIN A0     
 
 DHT dht(DHTPIN, DHTTYPE);
 
