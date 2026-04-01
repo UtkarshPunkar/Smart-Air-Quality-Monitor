@@ -45,7 +45,7 @@ A DIY IoT project that monitors temperature, humidity, and air quality using ESP
 1. ESP8266 reads data from DHT11 and MQ135 sensors
 2. Displays the live values on OLED
 3. Sends temperature, humidity & air quality to ThingSpeak channel via WiFi
-4. (Optional) Buzzer or LED turns on if air quality is poor
+4. (Optional) Buzzer or LED turns on if air quality is poor.
 
 ---
 
