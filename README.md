@@ -70,7 +70,7 @@ A DIY IoT project that monitors temperature, humidity, and air quality using ESP
 3. Copy the **Write API Key** and **Channel ID**
 4. Paste these into the Arduino code.
 
-For detailed steps, see [docs/ThingSpeak_setup.md](docs/ThingSpeak_setup.md)
+For detailed steps, see [docs/ThingSpeak_setup.md](docs/ThingSpeak_setup.md).
 
 ---
 
