@@ -7,8 +7,8 @@ A DIY IoT project that monitors temperature, humidity, and air quality using ESP
 ## 📦 Features:
 
 - 🌡️ Real-time Temperature & Humidity
-- 🌬️ Air Quality Monitoring (via MQ135/MQ2)
-- 📺 OLED Display Output
+- 🌬️ Air Quality Monitoring (via MQ135/MQ2).
+- 📺 OLED Display Output.
 - ☁️ Cloud Data Upload to ThingSpeak.
 - 🚨 (Optional) Buzzer or LED for Alerts.
 
